@@ -1,8 +1,8 @@
 {
   "name": "react-vite-storybook",
+  "license": "MIT",
   "version": "0.0.2",
   "description": "React Vite Storybook",
-  "license": "MIT",
   "repository": "https://github.com/gsroka/react-vite-storybook.git",
   "author": {
     "email": "gsroka@pm.me",
@@ -20,10 +20,14 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.5",
     "@mantine/core": "^5.10.0",
     "@mantine/hooks": "^5.10.0",
     "@storybook/react": "^6.5.15",
+    "@tabler/icons": "^1.119.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^29.2.5",
+    "@types/node": "^18.11.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.6.1"
