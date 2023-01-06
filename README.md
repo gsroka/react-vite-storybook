@@ -1,4 +1,4 @@
-# react-vite-stoorybook
+# react-vite-storybook
 
 Install & run
 
