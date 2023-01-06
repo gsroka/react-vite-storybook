@@ -1,7 +1,5 @@
 # react-vite-stoorybook
 
-Node version: 16.15.1
-
 Install & run
 
 1. yarn install
@@ -13,3 +11,9 @@ Install & run
 Upgrade
 
 1. yarn upgrade-interactive --latest
+
+
+---
+
+Conventional Commits
+https://www.conventionalcommits.org/en/v1.0.0/#summary
